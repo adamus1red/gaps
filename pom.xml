@@ -23,7 +23,7 @@
 
     <properties>
         <apache.commons.collections4>4.4</apache.commons.collections4>
-        <apache.commons.lang3>3.9</apache.commons.lang3>
+        <apache.commons.lang3>3.12.0</apache.commons.lang3>
         <apache.commons.text>1.9</apache.commons.text>
         <commons.io>2.11.0</commons.io>
         <gaps.version>0.9.10</gaps.version>
