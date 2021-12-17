@@ -31,7 +31,7 @@
         <guava>30.1-jre</guava>
         <hibernate.validator>6.1.5.Final</hibernate.validator>
         <jackson.version>2.12.1</jackson.version>
-        <jakarta.xml.bind.api>2.3.2</jakarta.xml.bind.api>
+        <jakarta.xml.bind.api>3.0.1</jakarta.xml.bind.api>
         <java.version>11</java.version>
         <javax.validation.api>2.0.1.Final</javax.validation.api>
         <jaxb.api.version>2.3.0</jaxb.api.version>
