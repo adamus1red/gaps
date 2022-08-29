@@ -24,6 +24,6 @@ jobs:
       - name: Build Docker Compose
         run: docker-compose -f docker-compose-dev.yaml build
       - name: Run Docker Compose
-        uses: isbang/compose-action@v1.0.0
+        uses: isbang/compose-action@v1.2.0
         with: 
           compose-file: 'docker-compose-dev.yaml'
